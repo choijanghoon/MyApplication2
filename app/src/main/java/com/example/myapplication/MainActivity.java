@@ -11,5 +11,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         TextView tv=  new TextView(this);
-    }
+        // 커밋 하는법 아시죠?whot? ㅋㅋㅋ
+        // 아래꺼 add 먼저하고, 그 다음 위에 잇는 커밋 ㄱㄱ
+    }어디가찌
 }
